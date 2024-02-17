@@ -17,8 +17,7 @@ I'm a Full Stack Data Scientist
 - SQL 
 - Data Science
 - Advanced Dashboards
-- Machine Learning 
-- Deep Learning
+- Machine & Deep Learning
 - Artificial Intelligence
 - Flask Backend & HTML CSS Bootstrap Javascript FrontEnd
 - Product Management
