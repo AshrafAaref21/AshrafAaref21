@@ -12,7 +12,7 @@ I'm a Full Stack Data Scientist
 
 
 ## 🛠 Skills
-- Python  
+- Python & JavaScript 
 - Statistics 
 - SQL 
 - Data Science
