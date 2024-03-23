@@ -19,7 +19,8 @@ I'm a Full Stack Data Scientist & React Developer
 - Advanced Dashboards
 - Machine & Deep Learning
 - Artificial Intelligence
-- Flask Backend & HTML CSS Bootstrap Javascript FrontEnd
+- Flask Backend & React & Redux & React Query & Tailwind CSS and much more...
+- Supabase & FireBase
 - Product Management
 
 
