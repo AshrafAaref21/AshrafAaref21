@@ -14,12 +14,12 @@ I'm a Full Stack Data Scientist & React Developer
 ## 🛠 Skills
 - Python & JavaScript 
 - Statistics 
-- SQL 
+- SQL & NoSQL
 - Data Science
 - Advanced Dashboards
 - Machine & Deep Learning
 - Artificial Intelligence
-- Flask Backend & React & Redux & React Query & Tailwind CSS and much more...
+- Flask Backend & React & Redux & React Query & Tailwind CSS & Styled Components and much more...
 - Supabase & FireBase
 - Product Management
 
@@ -31,7 +31,7 @@ I'm a Full Stack Data Scientist & React Developer
 
 👯‍♀️ Micro-Masters in Supply Chain Management: From Mit
 
-🤔 3 Udacity NanoDegrees in Data Science and more than 3 years experience in Data Science and AI
+🤔 3 Udacity NanoDegrees in Data Science and more than 3 years experience in Data Science & AI and Software Engineering
 
 💬 more details loading...
 
