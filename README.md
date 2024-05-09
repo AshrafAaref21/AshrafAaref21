@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I'm a Full Stack Data Scientist & React Developer
+I'm a Full Stack Data Scientist & Django-React Developer
 
 
 
@@ -19,7 +19,7 @@ I'm a Full Stack Data Scientist & React Developer
 - Advanced Dashboards
 - Machine & Deep Learning
 - Artificial Intelligence
-- Flask Backend & React & Redux & React Query & Tailwind CSS & Styled Components and much more...
+- Django/Flask Backend & React & Redux & React Query & Tailwind CSS & Styled Components and much more...
 - Supabase & FireBase
 - Product Management
 
