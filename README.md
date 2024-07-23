@@ -19,8 +19,10 @@ I'm a Full Stack Data Scientist & Django-React Developer
 - Advanced Dashboards
 - Machine & Deep Learning
 - Artificial Intelligence
-- Django/Flask Backend & React & Redux & React Query & Tailwind CSS & Styled Components and much more...
+- Django-Flask Backend & React & Redux & React Query & Tailwind CSS & Styled Components and much more...
 - Nginx & Docker
+- Celery & Redis & Flower
+- Shell Scripting & Git
 - AWS & Digitalocean & vercel & ....
 - Supabase & FireBase
 - Product Management
