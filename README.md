@@ -22,7 +22,7 @@ I'm a Full Stack Data Scientist & Django-React Developer
 - Django-Flask Backend & React & Redux & React Query & Tailwind CSS & Styled Components and much more...
 - Nginx & Docker
 - Celery & Redis & Flower
-- Shell Scripting & Git
+- Linux & Shell Scripting & Git
 - AWS & Digitalocean & vercel & ....
 - Supabase & FireBase
 - Product Management
