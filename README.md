@@ -58,6 +58,8 @@ I'm a Full Stack Data Scientist & Django-React Developer
 
 
 ## Future Plans 
+⚡️ Looking forward to help to make you a business software solutions
+
 ⚡️ Looking forward to help drive innovations into your company as a Data Scientist
 
 ⚡️ Looking forward to mentor students and data science enthusiasts
