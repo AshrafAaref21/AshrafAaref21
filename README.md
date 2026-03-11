@@ -19,7 +19,7 @@ Backend engineer specializing in high-performance APIs, microservices, and real-
 - 🔭 Currently deepening Go/Golang expertise in microservices and distributed systems
 - 🎓 BSc Industrial Engineering · MIT MicroMasters in Supply Chain Management
 - 💼 Top Rated Plus on Upwork — delivering for international clients in fintech, SaaS, and logistics
-- 📍 Cairo, Egypt
+- 📍 Alexandria, Egypt
 
 ---
 
