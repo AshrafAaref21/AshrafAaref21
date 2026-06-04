@@ -16,7 +16,6 @@
 
 Backend engineer specializing in high-performance APIs, microservices, and real-time systems. I build production-grade software that's designed to scale — with clean architecture, not shortcuts.
 
-- 🔭 Currently deepening Go/Golang expertise in microservices and distributed systems
 - 🎓 BSc Industrial Engineering · MIT MicroMasters in Supply Chain Management
 - 💼 Top Rated Plus on Upwork — delivering for international clients in fintech, SaaS, and logistics
 - 📍 Alexandria, Egypt
@@ -79,7 +78,7 @@ Backend engineer specializing in high-performance APIs, microservices, and real-
 
 ## Background
 
-Industrial engineer turned backend specialist. I bring a systems-thinking mindset to every project — understanding business logic, not just writing code. 3+ years of full-stack production experience, now focused on Go backend and distributed systems architecture.
+Industrial engineer turned backend specialist. I bring a systems-thinking mindset to every project — understanding business logic, not just writing code. 5+ years of full-stack production experience, now focused on Go backend and distributed systems architecture.
 
 ---
 
