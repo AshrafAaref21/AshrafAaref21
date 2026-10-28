@@ -1,5 +1,5 @@
 <h1 align="center">Aaref Ashraf</h1>
-<h3 align="center">Senior Backend Engineer · Go · Python · Django · React</h3>
+<h3 align="center">Senior Backend Engineer · Go · Python · React . LangChain . LangGraph</h3>
 
 <p align="center">
   <a href="https://www.upwork.com/freelancers/aiaaref">
